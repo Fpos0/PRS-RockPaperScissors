@@ -1,2 +1,2 @@
 # PRS-RockPaperScissors
-Jogo pedra papel tesoura em JS
+Jogo pedra papel tesoura desenvolvido em Vanilla JS
